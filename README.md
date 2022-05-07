@@ -18,4 +18,4 @@
 
 ## Link do site
 
-[Mata Mosquito](https://alansousacarvalho.github.io/Spotify-Clone/)
+[Mata Mosquito](https://alansousacarvalho.github.io/JogoMataMosquito/)
